@@ -9,13 +9,13 @@ Ejemplo ubicacion { lat: 123, lng: -123 }
 
 # TODO
 
-- Applicacion que envia un mensaje directo a otro usuario.
+- Applicacion que envia un mensaje y recibir todos los mensajes disponibles
 
 Servicio simple de Mensajes que nos permite:
 
 - Crear un mensaje
 - Ver todos los mensajes
 
-[] Instalar feathers
+[√] Instalar feathers
 [] Habilitar nuestro primer endpoint
 [] Auth
