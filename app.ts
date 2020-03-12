@@ -64,6 +64,10 @@ app.service("messages").create({
   text: "Hola chaval, desde el server! 💬"
 });
 
+app.service("messages").create({
+  text: "Hola amigo como estas?"
+});
+
 // Log cada vez que se cree un nuevo mensaje
 /*
 app.service("messages").on("created", (message: Message) => {
