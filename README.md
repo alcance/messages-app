@@ -29,3 +29,7 @@ IMPORTANTE: Necesitas descargar el transpiler de TypeScript.
 
 ### [ Syntax Error ] {👨‍💻} | Sesion de Código - FeathersJS para aplicaciones en Tiempo Real / #2
 [![[ Syntax Error ] {👨‍💻} | Sesion de Código - FeathersJS para aplicaciones en Tiempo Real / #2](https://i.ytimg.com/vi/RSB3qcV4ltw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_5z00ACoWALrdiGzxB0ZiwXvQng)](https://www.youtube.com/watch?v=RSB3qcV4ltw)
+
+### [ Syntax Error ] {👨‍💻} | Sesion de Código - FeathersJS para aplicaciones en Tiempo Real / # 3
+[![[ Syntax Error ] {👨‍💻} | Sesion de Código - FeathersJS para aplicaciones en Tiempo Real / #3](https://i.ytimg.com/vi/1-vxj672HhQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCBx4P36GBHj2ifC44N5T_Fr_Kuuw)](https://www.youtube.com/watch?v=RSB3qcV4ltw)
+
