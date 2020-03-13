@@ -1,6 +1,10 @@
 # messages-app
 Send and receive messages from friends and family.
 
+## Tienes alguna pregunta?
+* [Preguntas y Encuestas](https://app.sli.do/event/nbqcgaqg/live/questions)
+* [Comunidad Discord](https://discord.gg/AFTKXd)
+
 ## Clone project
 `git clone https://github.com/alcance/messages-app.git`
 
